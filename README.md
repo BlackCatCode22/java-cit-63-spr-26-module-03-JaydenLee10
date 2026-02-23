@@ -19,3 +19,8 @@ Code up these three (or four if you are doing the extra credit assignment)  prog
 4) Advanced (extra credit) - Code up the card game program at the end of Chapter 5 in our textbook.
 
 Let me know in the "Text Entry" area of this assignment if you completed the extra credit assignment. If you did not do the extra credit, leave the "Text Entry" blank and do not submit anything - I will check your remote repo on GitHub Classroom to score your programming assignments for this module. 
+<img width="1067" height="607" alt="Screenshot 2026-02-22 213239" src="https://github.com/user-attachments/assets/f2657211-7a97-4f84-a644-31405b4f4ee1" />
+<img width="1062" height="423" alt="Screenshot 2026-02-22 212046" src="https://github.com/user-attachments/assets/cc561e12-b53b-4852-9e24-93a7f77b04fe" />
+<img width="1070" height="292" alt="Screenshot 2026-02-22 212039" src="https://github.com/user-attachments/assets/ad316e61-59f3-43cb-a643-5037ac9bb642" />
+<img width="1061" height="294" alt="Screenshot 2026-02-22 211312" src="https://github.com/user-attachments/assets/f88c3821-cba9-4559-938a-6a291b68561a" />
+<img width="1064" height="277" alt="Screenshot 2026-02-22 211301" src="https://github.com/user-attachments/assets/b7e9e24e-61e2-48f2-8d99-c65b76c26f18" />
